@@ -18,17 +18,9 @@ This project aims to predict the rent prices in various metropolitan cities in I
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Indian_Metropolitian_City_Rent_Prediction.git
+    https://github.com/abhishek-sharma-iisc/Indian_Metropolitian_City_Rent_Prediction.git
     ```
-2. Navigate to the project directory:
-    ```sh
-    cd Indian_Metropolitian_City_Rent_Prediction
-    ```
-3. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
-4. Open the Jupyter Notebook:
+2. Open the Jupyter Notebook:
     ```sh
     jupyter notebook Indian_Metropolitian_City_Rent_Prediction.ipynb
     ```
